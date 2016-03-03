@@ -13,7 +13,7 @@
 Σουηδία http://data.riksdagen.se/In-English/ 
 συνεδριάσεις, ψηφοφορίες, έγγραφα και πληροφορίες για βουλευτές 
 
-##συνταγογράφηση 
+##Συνταγογράφηση 
 Μ. Βρετανία (αναλυτικά στοιχεία)
 https://data.gov.uk/dataset/prescribing-by-gp-practice-presentation-level 
 https://www.england.nhs.uk/ourwork/tsd/data-info/open-data/examples/ (παραδείγματα χρήσης)
@@ -39,5 +39,36 @@ http://governobert.bcn.cat/estrategiaifinances/en/budget-execution-0
 
 Σε κάθε πόλη στην Μ. Βρετανία (και άλλες χώρες...) δίνεται μηνιαία αναφορά δαπανών
 πχ https://www.bristol.gov.uk/council-spending-performance/spending-over-500 
+
+##EU
+https://open-data.europa.eu/el/data 
+
+##World Bank
+Οικονομικά δεδομένα σε παγκόσμιο επίπεδο
+http://data.worldbank.org/products/data-portals 
+πχ Κλιματική αλλαγή http://data.worldbank.org/climate-change 
+
+#Κατάλογοι
+http://dataportals.org/ 
+https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/ 
+http://ckan.org/instances/# 
+
+Το επόμενο ερώτημα είναι το πως επιδρούν τα ανοιχτά δεδομένα στην οικονομία.
+
+Ενδεικτικά:
+
+##Οι επιχειρήσεις που χρησιμοποιούν ανοιχτά δεδομένα
+http://opendataenterprise.org/map.html 
+
+##επίδραση στον αναπτυσσόμενο κόσμο
+http://www.opendataresearch.org/emergingimpacts 
+
+##use cases
+www.odimpact.org  
+
+##δείκτες
+http://www.opendatabarometer.org/report/analysis/rankings.html 
+http://index.okfn.org/ 
+
 
 
