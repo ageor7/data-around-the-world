@@ -32,8 +32,7 @@ https://datahub.io/dataset/education-data-gov-uk
 επιδόσεις http://www.education.gov.uk/schools/performance/ 
 
 ##Οικονομική διαφάνεια
-Πόλη με οικονομική διαφάνεια
-Βαρκελώνη
+###Πόλη με οικονομική διαφάνεια: Βαρκελώνη
 Αναλυτικά γραφήματα και λεπτομερή δεδομένα
 http://governobert.bcn.cat/estrategiaifinances/en/budget-execution-0 
 
@@ -49,9 +48,9 @@ http://data.worldbank.org/products/data-portals
 πχ Κλιματική αλλαγή http://data.worldbank.org/climate-change 
 
 #Κατάλογοι
-http://dataportals.org/ 
-https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/ 
-http://ckan.org/instances/# 
+* http://dataportals.org/ 
+* https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/ 
+* http://ckan.org/instances/# 
 
 Το επόμενο ερώτημα είναι το πως επιδρούν τα ανοιχτά δεδομένα στην οικονομία.
 
@@ -67,8 +66,8 @@ http://www.opendataresearch.org/emergingimpacts
 www.odimpact.org  
 
 ##δείκτες
-http://www.opendatabarometer.org/report/analysis/rankings.html 
-http://index.okfn.org/ 
+* http://www.opendatabarometer.org/report/analysis/rankings.html 
+* http://index.okfn.org/ 
 
 
 
