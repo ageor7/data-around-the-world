@@ -26,10 +26,8 @@ Aναλυτικά στοιχεία για τα συμβόλαια εξόρυξη
 
 ##Σχολεία
 Μ. Βρετανία
-αναλυτικά στοιχεία για κάθε σχολείο και Πανεπιστήμιο 
-http://www.education.gov.uk/edubase/home.xhtml 
-https://datahub.io/dataset/education-data-gov-uk 
-επιδόσεις http://www.education.gov.uk/schools/performance/ 
+* αναλυτικά στοιχεία για κάθε σχολείο και Πανεπιστήμιο http://www.education.gov.uk/edubase/home.xhtml, https://datahub.io/dataset/education-data-gov-uk 
+* επιδόσεις http://www.education.gov.uk/schools/performance/ 
 
 ##Οικονομική διαφάνεια
 ###Πόλη με οικονομική διαφάνεια: Βαρκελώνη
