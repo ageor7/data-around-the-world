@@ -28,7 +28,8 @@ Aναλυτικά στοιχεία για τα συμβόλαια εξόρυξη
 Μ. Βρετανία
 * αναλυτικά στοιχεία για κάθε σχολείο και Πανεπιστήμιο http://www.education.gov.uk/edubase/home.xhtml, https://datahub.io/dataset/education-data-gov-uk 
 * επιδόσεις http://www.education.gov.uk/schools/performance/
-* Φιλαδέλφεια- δαπάνες σχολείων https://www.opendataphilly.org/dataset/school-district-budget-data
+
+Φιλαδέλφεια, ΗΠΑ - δαπάνες σχολείων https://www.opendataphilly.org/dataset/school-district-budget-data
 
 ##Οικονομική διαφάνεια
 ###Πόλη με οικονομική διαφάνεια: Βαρκελώνη
