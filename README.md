@@ -47,9 +47,11 @@ http://governobert.bcn.cat/estrategiaifinances/en/budget-execution-0
 ##EU
 https://open-data.europa.eu/el/data 
 
-## Ινδία
+##Ινδία
 https://data.gov.in/
 
+##Ουκρανία
+http://spending.gov.ua/
 
 ##World Bank
 Οικονομικά δεδομένα σε παγκόσμιο επίπεδο
