@@ -62,6 +62,7 @@ http://data.worldbank.org/products/data-portals
 * http://dataportals.org/ 
 * https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/ 
 * http://ckan.org/instances/# 
+* 200+ Αποθετήρια και 10+ Καταλόγοι (ανοικτών) δεδομένων: https://docs.google.com/spreadsheets/d/1fO_f-RworsU0BRqgyiKcrdb4gyUYuo4rUqzsu9zoCII/
 
 Το επόμενο ερώτημα είναι το πως επιδρούν τα ανοιχτά δεδομένα στην οικονομία.
 
